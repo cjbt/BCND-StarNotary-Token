@@ -1,5 +1,7 @@
 # starNotary-dApp-blockchain
 
+A decentralized App that stores star information and ownership using blockchain on the rinkeby Network.
+
 ### Project Details
 Truffle v5.0.28 (core: 5.0.28)
 
