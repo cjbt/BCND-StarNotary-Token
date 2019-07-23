@@ -11,8 +11,8 @@ contract StarNotary is ERC721 {
         string name;
     }
 
-    string public name = "StarNotary Project";
-    string public symbol = "STP";
+    string public constant name = "StarNotary Project";
+    string public constant symbol = "STP";
 
     // Implement Task 1 Add a name and symbol properties
     // name: Is a short name to your token
