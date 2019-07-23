@@ -21,13 +21,13 @@
  * phrase from a file you've .gitignored so it doesn't accidentally become public.
  *
  */
+require('dotenv').config()
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = 'b8472bbf4c7c4894834464567dd626c6';
+const infuraKey = process.env.INFURA_KEY;
 
 // const fs = require('fs');
-const mnemonic =
-  'brain collect desk disagree drink alcohol govern sight soul test exit violin';
+const mnemonic = process.env.MNEMONIC;
 
 module.exports = {
   /**
