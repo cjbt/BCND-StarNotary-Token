@@ -16,7 +16,5 @@ ERC-721 Token Name: `StarNotary Project`
 
 ERC-721 Token Symbol: `STP`
 
-“Token Address” on the rinkeby Network: `0xB4a220b4cf0C6835b25907ae8237f5352a23D92F`
+“Token Address” deployed on the rinkeby Network: [0x1EB9c58c236214327A9a236a46B7C9310E0eF800](https://rinkeby.etherscan.io/address/0x1EB9c58c236214327A9a236a46B7C9310E0eF800)
 
-### Contract deployed at
-https://rinkeby.etherscan.io/address/0xb4a220b4cf0c6835b25907ae8237f5352a23d92f
